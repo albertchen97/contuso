@@ -71,7 +71,7 @@
               "authenticationType": "API_KEY",
               "apiKeyConfig": {
                 "apiKeyExpirationDays": 365,
-                "apiKeyExpirationDate": "2023-08-05T16:43:46.307Z",
+                "apiKeyExpirationDate": "2023-08-05T21:55:58.259Z",
                 "description": "Guest user access to books"
               }
             }
