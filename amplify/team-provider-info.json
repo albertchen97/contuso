@@ -15,6 +15,16 @@
       "auth": {
         "mybookstorec22093c3": {},
         "true": {}
+      },
+      "function": {
+        "createOrder": {
+          "deploymentBucketName": "amplify-mybookstore-dev-125809-deployment",
+          "s3Key": "amplify-builds/createOrder-53396d38376a7332646f-build.zip"
+        },
+        "processPayment": {
+          "deploymentBucketName": "amplify-mybookstore-dev-125809-deployment",
+          "s3Key": "amplify-builds/processPayment-516c7531663557353975-build.zip"
+        }
       }
     }
   }

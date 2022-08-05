@@ -4,11 +4,9 @@
       "addmissingownerfields": true,
       "improvepluralization": false,
       "validatetypenamereservedwords": true,
-      "useexperimentalpipelinedtransformer": true,
       "enableiterativegsiupdates": true,
       "secondarykeyasgsi": true,
       "skipoverridemutationinputtypes": true,
-      "transformerversion": 2,
       "suppressschemamigrationprompt": true,
       "securityenhancementnotification": false,
       "showfieldauthnotification": false,
@@ -17,7 +15,10 @@
       "enableautoindexquerynames": false,
       "respectprimarykeyattributesonconnectionfield": false,
       "shoulddeepmergedirectiveconfigdefaults": false,
-      "populateownerfieldforstaticgroupauth": false
+      "populateownerfieldforstaticgroupauth": false,
+
+      "useexperimentalpipelinedtransformer": false,
+      "transformerversion": 1
     },
     "frontend-ios": {
       "enablexcodeintegration": true
