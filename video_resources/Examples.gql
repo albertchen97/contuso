@@ -21,7 +21,7 @@ query{
 query{
   listOrders(filter: {
     user: {
-      eq: "Manoj Fernando"
+      eq: "[replace with username]"
     }
   }){
     items{
