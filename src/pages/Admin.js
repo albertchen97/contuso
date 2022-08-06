@@ -82,13 +82,13 @@ const Admin = () => {
             <div className="form-fields">
               <div className="title-form">
                 <p>
-                  <label htmlFor="title">Title</label>
+                  <label htmlFor="title">Name</label>
                 </p>
                 <p>
                   <input
                     name="email"
                     type="title"
-                    placeholder="Type the title"
+                    placeholder="Type the name"
                     onChange={(e) =>
                       setBookDetails({ ...bookDetails, title: e.target.value })
                     }
@@ -105,7 +105,7 @@ const Admin = () => {
                     name="description"
                     type="text"
                     rows="8"
-                    placeholder="Type the description of the book"
+                    placeholder="Type the description of the car part"
                     onChange={(e) =>
                       setBookDetails({
                         ...bookDetails,
@@ -118,13 +118,13 @@ const Admin = () => {
               </div>
               <div className="author-form">
                 <p>
-                  <label htmlFor="author">Author</label>
+                  <label htmlFor="author">Seller</label>
                 </p>
                 <p>
                   <input
                     name="author"
                     type="text"
-                    placeholder="Type the author's name"
+                    placeholder="Type the seller's name"
                     onChange={(e) =>
                       setBookDetails({ ...bookDetails, author: e.target.value })
                     }
@@ -138,7 +138,7 @@ const Admin = () => {
                   <input
                     name="price"
                     type="text"
-                    placeholder="What is the Price of the book (USD)"
+                    placeholder="What is the Price of the car part (USD)"
                     onChange={(e) =>
                       setBookDetails({ ...bookDetails, price: e.target.value })
                     }
