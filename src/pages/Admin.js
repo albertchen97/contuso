@@ -37,12 +37,15 @@ const Admin = () => {
     }
   };
 
+  // Image upload
   const handleImageUpload = async (e) => {
     e.preventDefault();
     const file = e.target.files[0];
     const extension = file.name.split(".")[1];
     const name = file.name.split(".")[0];
+    // key with the UUID (Universally Unique Identifier)
     const key = `images/${uuidv4()}${name}.${extension}`;
+    // Store the images to S3 bucket -> /public
     const url = `https://${bucket}.s3.${region}.amazonaws.com/public/${key}`;
     try {
       // Upload the file to s3 with public access level.

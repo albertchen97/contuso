@@ -23,7 +23,7 @@
         },
         "createOrder": {
           "deploymentBucketName": "amplify-mybookstore-prod-131211-deployment",
-          "s3Key": "amplify-builds/createOrder-5344524c597539516167-build.zip"
+          "s3Key": "amplify-builds/createOrder-434e7163527542726241-build.zip"
         }
       }
     }
