@@ -9,6 +9,4 @@
 
 # YouTube Tutorial & Starting Code
 
-- [freeCodeCamp - Build an Online Store Using AWS, React, and Stripe](https://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.orghttps://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.org)
-
-- [Manoj Fernando - Starting Code](https://github.com/mjzone/bookstore-v2)
+- This project is based on [this YouTube Tutorial](https://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.orghttps://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.org). I followed it and made my own adjustments. 
