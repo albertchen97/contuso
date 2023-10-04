@@ -9,4 +9,4 @@
 
 # Credit
 
-- This project is based on [this YouTube Tutorial](https://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.orghttps://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.org). I followed it and made my own adjustments. 
+- This project is based on [this YouTube Tutorial](https://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.orghttps://www.youtube.com/watch?v=JgwI22y_eFA&ab_channel=freeCodeCamp.org). I followed it and built my own version of the website.
