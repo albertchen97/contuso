@@ -14,14 +14,6 @@ Contuso is a serverless, auto-scalable, fully-functional full-stack eCommerce we
 
 ![Product Details](/images/details.PNG)
 
-## Sign In
-
-![Sign In](/images/signin.PNG)
-
-## Create an Account
-
-![Create an account](/images/createaccount.PNG)
-
 ## Checkout
 
 ![Checkout](/images/checkout.PNG)
@@ -29,6 +21,14 @@ Contuso is a serverless, auto-scalable, fully-functional full-stack eCommerce we
 ## Payment
 
 ![Payment](/images/payment.PNG)
+
+## Sign In
+
+![Sign In](/images/signin.PNG)
+
+## Create an Account
+
+![Create an account](/images/createaccount.PNG)
 
 ---
 
