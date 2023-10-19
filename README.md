@@ -32,5 +32,5 @@ Contuso is a serverless, auto-scalable, fully-functional full-stack eCommerce we
 
 ---
 
-[A bit awkward video demo](https://youtu.be/vhNazs-z3cg?si=TocagkF5ooDt4Lt0)
+[Video Demo](https://youtu.be/vhNazs-z3cg?si=TocagkF5ooDt4Lt0)
 
